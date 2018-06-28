@@ -1,5 +1,6 @@
 # snoc
 SNOC - Social Network of College
+(Any changes regarding name and logo are also appreciated :p )
 
 SNOC is an open source project which targets some problems faced by college students.
 Anyone willing to contribute can mail his resume at kbhutani0001@gmail.com
